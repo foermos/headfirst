@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style type="text/css">
+p{
+  color:red;
+}
+.tablerow{
+  display:table
+}
+.tablerow p{
+  display:table-cell;
+}
+<title>head first table test</title>
+</head>
+<body>
+<h1>table name</h1>
+<p>table</p>
+<div class="tablerow">
+<p> table left<p>
+<p> table right<p>
+<div>
+</body>
+</html>
